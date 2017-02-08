@@ -1,2 +1,1 @@
-export null;
-dakfjgh
+var foo = 42;
