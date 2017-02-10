@@ -5,3 +5,5 @@ var arr = [1, 2, 3];
 console.log(arr);
 
 var narf = 3;
+
+// foo
