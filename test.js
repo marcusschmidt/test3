@@ -4,4 +4,4 @@ var arr = [1, 2, 3];
 
 console.log(arr);
 
-var narf;
+var narf = 3;
