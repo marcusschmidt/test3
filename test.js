@@ -6,4 +6,4 @@ console.log(arr);
 
 var narf = 3;
 
-// foodsmfgksjdnfasggjffhjgsjnfkgj
+// neuer_task_2
