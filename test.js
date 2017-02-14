@@ -6,4 +6,4 @@ console.log(arr);
 
 var narf = 3;
 
-// neuer_task_2 sjdnfkj
+// neuer_task_2 sjdnf
